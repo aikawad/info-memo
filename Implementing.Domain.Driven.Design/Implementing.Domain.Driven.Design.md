@@ -105,3 +105,14 @@ Hold On a Minute!
  * Bounded Context.
  * 
  * 
+ 
+ # How You Can Sell DDD to Your Boss
+ 
+ 1. The organizaton gains a useful model of its domain.
+ 2. A refined, precise definition and understanding of the business is developed.
+ 3. Domain experts contribute to soft ware design.
+ 4. A better user experience is gained.
+ 5. Clean boundaries are placed around pure models.
+ 6. Enterprise architechture is better organized.
+ 7. Agile, iterative, continuous modeling is used.
+ 8. New tools, both strategic and tactical, are employed.
