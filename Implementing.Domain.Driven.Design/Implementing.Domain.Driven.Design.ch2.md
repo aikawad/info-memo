@@ -14,6 +14,7 @@ To succeed in implementing DDD, you have to get these right.
 - Learn why strategic design is so essential, and why designing without it hurts.
 - Consider a practical real-world Domain with multiple Subdomains.
 - Make sense of Bounded Contexts, both conceptually and technically.
+
 ----
 
 ######  Big Picture  #####
