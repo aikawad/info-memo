@@ -40,12 +40,29 @@ To succeed in implementing DDD, you have to get these right.
 - Problem Space
 - Solution space
 
-###### Problem Space ##################
+##### Problem Space ##################
 
 >  The problem space is the parts of the Domain that need to be developed to deliver a new Core Domain. Assessing the problem space involves examining Subdomains that *already exist and those that are needed.* Thus, your problem space is the combination of the Core Domain and the Subdomains it must use. The Subdomains in the problem space are usually different from project to project since they are used to explore a current strategic business problem.
 
 
-###### Solution Space ##################
+##### Solution Space ##################
 
 >  The solution space is one or more Bounded contexts, a set of specific software models. That's because the Bounded Context *is a specific solution,* a *realization view,* once developed. The Bounded Context is used to realize a solution as software.
 
+
+
+##### Here are some questions that should be answered in order to steer your project in the right direction:
+- What is the name of and vision for teh strategic Core Domain?
+- What concepts should be considered part of the strategic Core Domain?
+- What are the necessary Supporting Subdomains and the Generic Subdomains?
+- Who should do the work in each area of the domain?
+- Can the right teams be assembled?
+
+---
+
+>Whiteboard Time
+>```
+Take a moment to look at your whiteboard work and consider: What is your problem space? Recall that it is the combination of the strategic Core Domain and the Subdomains supporting it.
+```
+
+---
