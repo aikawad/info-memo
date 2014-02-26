@@ -76,7 +76,7 @@ Take a moment to look at your whiteboard work and consider: What is your problem
 - Do the strategic inintiative and all supporting projects have a high probability of success, or will any one of then cause the overall program to be delayed or even fail?
 - Where are the terms of the Ubiquitous Languages involved completely different?
 - Where is there overlap and sharing of concepts and data between Bounded Contexts?
-- Which Bounded context contains the concepts that address the Core Domain and which of the [Evans](http://domainlanguage.com/ddd/patterns/DDD_Reference_2011-01-31.pdf) tactical patterns will be used to model it?
+- Which Bounded context contains the concepts that address the Core Domain and which of the [[Evans]](http://domainlanguage.com/ddd/patterns/DDD_Reference_2011-01-31.pdf) tactical patterns will be used to model it?
 
 
 - - -
