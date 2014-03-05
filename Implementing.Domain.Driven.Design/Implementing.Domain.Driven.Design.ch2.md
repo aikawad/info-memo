@@ -82,3 +82,35 @@ Take a moment to look at your whiteboard work and consider: What is your problem
 
 - - -
 
+
+##### Making Sense of Bounded Contexts
+
+
+- - -
+
+> Bounded Context Is Explicit and Linguistic
+>```
+A Bounded Context is an explicit boundary within which a domain model exists. Inside the boundary all terms and phrases of the Ubiquitous language have specific meaning, and  the model reflects the language with exactness.
+```
+
+- - -
+
+> Table 2.1. The Diversity of Meanings That the Tern Account Can Have
+>
+| Context | Meaning | Example |
+|----|----|----|
+| **Banking Context** | An Account maintains a record of debit and credit transactions indicating a customer's current financial state with the bank. | Checkin Account and Saving Account |
+| **Literary Context** | An Account is a set of literary expressions about one or more related events over a time span. | Amazon.com sells the book Into Thin Air: A Personal Account of the Mt. Everest Disaster. |
+
+
+- - -
+
+** Context Is King **
+
+Context is king, especially when implementing DDD.
+
+In the financial world the word *security* is often used. The Securities and Exchange Commission (SEC) restricts the term *security*  to use with equities. Now consider this: Futures contracts are commodities and not under the jurisdiction of the SEC. However, Some financial firms call Futures by the name *security*  as a reference but mark them with the __Standard Type (6)__ Futures.
+
+Is that the best Language for a Future? It depends on the Domain it's used in. Some would obviously say it is, while others would insist that it isn't. Context is also **cultural**. Inside a given firm that trades Futures, it may align best with the culture to use the term **Security** in a specific Ubiquitous Language.
+
+- - -
