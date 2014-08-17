@@ -1,4 +1,5 @@
 Domain-Driven Design
+---
 
 Tackling Complexity in the Heart of Softwaree
 
@@ -21,6 +22,7 @@ Conclusion
 
 
 Part I Putting the Domain Model to Work
+---
 
 Chapter 1: Crunching Knowledge
 
@@ -31,6 +33,7 @@ Chapter 3: Binding Model and Implementation
 ---
 
 Part II The Building Blocks of a Model-Driven Design
+---
 
 Chapter 4: Isolating the Domain
 
@@ -43,6 +46,7 @@ Chapter 7: Using the Language: An Extended Example
 ---
 
 Part III Refactoring Toward Deeper Insight
+---
 
 Chapter 8: Breakthrough
 
@@ -59,6 +63,7 @@ Chapter 13: Refactoring Toward Deeper Insight
 ---
 
 Part IV Strategic Design
+---
 
 Chapter 14: Maintaining MOdel Integrith
 
@@ -71,6 +76,7 @@ Chapter 17: Bringing the Strategy Together
 ---
 
 Conclusion
+---
 
 Appendix: The Use of Patterns in This Book
 
