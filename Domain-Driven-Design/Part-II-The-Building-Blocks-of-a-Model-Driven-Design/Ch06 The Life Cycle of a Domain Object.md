@@ -13,5 +13,5 @@
 - Client Code Ignore REPOSITORY Implementation; Developers Do Not
 - Implementing a REPOSITORY
 - Working Within Your Frameworks
-- The Rlationship with FACTORIES
+- The Relationship with FACTORIES
 - Designing Objects for Relational Databases
