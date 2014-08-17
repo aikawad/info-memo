@@ -9,7 +9,7 @@
 - Designing Association That Involve VALUE OBJECTS
 - SERVICES
 - SERVICES and the Isolated Domain Layer
-- Granularity
+- AGGREGATES
 - Access to SERVICES
 - MODULES (A.K.A. PACKAGES)
 - Agile MODULES
