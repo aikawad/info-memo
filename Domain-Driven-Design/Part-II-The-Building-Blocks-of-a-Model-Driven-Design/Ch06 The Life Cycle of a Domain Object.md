@@ -14,4 +14,4 @@
 - Implementing a REPOSITORY
 - Working Within Your Frameworks
 - The Rlationship with FACTORIES
-- Designing Objects fro Relational Databases
+- Designing Objects for Relational Databases
