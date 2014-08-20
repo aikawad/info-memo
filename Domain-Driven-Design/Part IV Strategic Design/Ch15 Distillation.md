@@ -1,0 +1,24 @@
+#Chapter 15 Distillation
+
+- CORE DOMAIN
+- Choosing the CORE
+- Who Does the Work?
+- An Escalation of Distillations
+- GENERIC SUBDOMAINS
+- Generic Doesn't Mean Reusable
+- Porject Risk Management
+- DOMAIN VISION STATEMENT
+- HIGHLIGHTED CORE
+- The Distillation Document
+- The Flagged CORE
+- The Distillation Document as Process Tool
+- COHESIVE MECHANISMS
+- GENERIC SUBDOMAIN versus COHESIVE MECHANISM
+- When a MECHANISM Is Part of the CORE DOMAIN
+- Distilling to a Declarative Style
+- SEGREGATED CORE
+- The Costs of Creating a GEGREGATED CORE
+- Evolving Team Decision
+- ABSTRACT CORE
+- Deep Models Distill
+- Choosing Refactoring Targets

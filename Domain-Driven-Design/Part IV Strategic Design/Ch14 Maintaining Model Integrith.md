@@ -1,0 +1,36 @@
+#Chapter 14 Maintaining Model Integrith
+
+- BOUNDED CONTEXT
+- Recognizing Splinters Within a BOUNDED CONTEXT
+- CONTINUOUS INTERGRATION
+- CONTEXT MAP
+- Testing at the CONTEXT Boundaries
+- Organizing and Documenting CONTEXT MAPS
+- Relationships Between BOUNDED CONTEXTS
+- SHARED KERNEL
+- CUSTOMER/SUPPLIER DEVELOPMENT TEAMS
+- CONFORMIST
+- ANTICORRUPTION LAYER
+- Designing the Interface of the ANTICORRUPTION LAYER
+- Implementing the ANTICORRUPTION LAYER
+- A Cautionary Tale
+- SEPARATE WAYS
+- OPEN HOST SERVICE
+- PUBLISHED LANGUAGE
+- Unifying an Elephant
+- Choosing Your Model Context Strategy
+- Team Decision or Higher
+- Putting Ourselves in Context
+- Transforming Boundaries
+- Accepting That Which We Cannot Change: Delineating the External Systems
+- The System Under Design
+- Catering to Special Needs with Distinct Models
+- Deployment
+- The Trade-off
+- When Your Project Is Already Under Way
+- Transformations
+- Merging CONTEXTS: SEPARATE WAYS -> SHARED KERNEL
+- Merging CONTEXTS: SHARED KERNEL -> CONTINUOUS
+- INTERGRATION
+- Phasing Out a Legacy System
+- OPEN HOST SERVICE -> PUBLISHED LANGUAGE
