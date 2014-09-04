@@ -1,2 +1,26 @@
 *Ch  4 Architecture*
-- 
+
+- Interviewing the Successful CIO
+- Layers
+- Dependency Inversion Principle
+- Hexagonal or Ports and Adapters
+- Service-Oriented
+- Representational State Transfer - REST
+- REST as an Architectural Style
+- Key Aspects of a RESTful HTTP Server
+- Key Aspects of a RESTful HTTP Client
+- REST and DDD
+- Why REST?
+- Command-Query Responsibility Segregation, or CQRS
+- Examining Areas of CQRS
+- Dealing with an Eventually Consistent Query Model
+- Event-Driven Architecture
+- Pipes and Filters
+- Long-Running Processes, aka Sagas
+- Event Sourcing
+- Data Fabric and Grid-Based Distributed Computing
+- Data Replication
+- Event-Driven Fabrics and Domain Events
+- Continuous Queries
+- Distributed Processing
+- Wrap-Up

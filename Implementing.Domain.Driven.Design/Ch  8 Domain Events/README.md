@@ -1,2 +1,21 @@
 *Ch  8 Domain Events*
-- 
+
+- The When and Why of Domain Events
+- Modeling Events
+- With Aggregate Characteristics
+- Identity
+- Publishing Events from the Domain Model
+- Publisher
+- Subscribers
+- Spreading the News to Remote Bounded Contexts
+- Messaging Infrastructure Consistency
+- Autonomus Servicces and Systems
+- Latency Tolerances
+- Event Store
+- Architectural Styles for Forwarding Stored Events
+- Publishing Notifications as RESTful Resources
+- Publishing Notifications through Messgng Middleware
+- Implementation
+- Publishing the NotificationLog
+- Publishing Message-Based Notificatons
+- Wrap-Up

@@ -1,2 +1,36 @@
 *Ch 10 Aggregates*
-- 
+
+- Using Aggregates in the Scrum Core Domain
+- First Attempt: Large-Cluster Aggregate
+- Second Attept: Multiple Aggregates
+- Rule: Mdel Tre Invariants in Consistency Boundaries
+- Rule: Design Small Aggregates
+- Don't Trust Every Use Case
+- Rule: Reference Other Aggregates by Identity
+- Making Aggregates Work Together through Identity References
+- Model Navigation
+- Scalability and Distribution
+- Rule: Use Eventual Consistency Outside the Boundary
+- Ask Whose Job It Is
+- Reasons to Break the Rules
+- Reason One: User Interface Convenience
+- Reason Two: Lack of Technical Mechanisms
+- Reason Three:  Global Transactions
+- Reason Four: Query Performance
+- Adhering to the Rules
+- Gaining Insight through Discovery
+- Rethinking theDesign, Again
+- Estimating Aggregate Cost
+- Common Usage Scenarios
+- Memory Consumption
+- Exploring Another Altrnative Design
+- Implementing Eventual Consistency
+- Is It the Team Member's Job?
+- Time for Decisions
+- Implementation
+- Create a Root Entity with Unique Identity
+- Favor Value Object Parts
+- Using Law of Demeter and Tell, Don't Ask
+- Optimistic Concurrency
+- Avoid Dependency Injection
+- Wrap-Up
