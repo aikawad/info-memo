@@ -45,6 +45,7 @@ __Part 2. Support Patterns__
 * Ch 14. Patterns forType Model Design Templates
 * Ch 15. Association Patterns
 * Ch 16. Afterword
+
 ---
 
 __Part 3. Appendix__
