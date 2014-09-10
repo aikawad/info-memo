@@ -10,9 +10,9 @@ info-memo
 ---
 ##Road map
 #####分析技巧
-DDD  ->  DDD, IDDD
-分析 -> Analysis Pattern, PoEAA 
-DSL  -> DSL
+DDD  ->  DDD, IDDD  
+分析 -> Analysis Pattern, PoEAA  
+DSL  -> DSL  
 
 #####設計技巧
 DP類的書籍雖然讀過幾本，但需要堆砌練習量，也許從DDD挖掘需求後的來源會使選擇DP的部份更有體會。
